@@ -12,7 +12,6 @@ engine = ""
 def gInUs():
 
     global strPDF
-    fileObj = ""
 
     # Print input
     print(Fore.GREEN + "[!] Insert path to PDF file:" + Fore.RESET)
