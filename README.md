@@ -5,7 +5,7 @@ This is a script that extracts text from a PDF file and read it
 ## Installation
 Install the dependencies
 ```py
-$ ip install pyttsx3
+$ pip install pyttsx3
 $ pip install PyMuPDF
 ```
 
